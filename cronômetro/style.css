@@ -1,0 +1,35 @@
+div {
+  text-align: center; /* alinhar o elementos da div */
+
+}
+
+body{
+  background-color: black;
+}
+
+h1{
+  color: white;
+}
+
+button{
+  height: 2.2em; /* unidade de medida que se basiea no tamanho da fonte contida no elemento */
+  width: 5.5em;
+  border: none;
+  color: white;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+.start-btn{
+  background-color: green;
+}
+
+.pause-btn{
+  background-color: grey;
+}
+
+.stop-btn{
+  background-color:red;
+}
